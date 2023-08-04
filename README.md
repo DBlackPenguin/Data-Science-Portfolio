@@ -1,9 +1,6 @@
 # Data-Science-Portfolio
 A humble collection of my data science portfolio
 
-# Data-Science-Portfolio
-A humble collection of my data science portfolio
-
 ## List of projects
 
 ### Superstore Dashboard
