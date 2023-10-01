@@ -21,7 +21,7 @@ Link to the notebook : https://drive.google.com/drive/folders/1GzXK1KXCZ2nfTYqWU
 
 ### Analyzing eCommerce Business Performance with SQL
 
-![Alt text](https://www.kindpng.com/picc/m/161-1619179_e-commerce-payment-gateway-services-pay-e-commerce.png)
+![Alt text](https://images.pond5.com/mobile-shopping-e-commerce-online-088356597_prevstill.jpeg)
 
 This project analyzes the business performance of an eCommerce company, taking into consideration several business metrics, namely customer growth, product quality, and payment methods.
 
