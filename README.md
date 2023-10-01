@@ -18,3 +18,10 @@ Link to the dashboard : https://public.tableau.com/shared/KJXTXT4SW?:display_cou
 A data analytics project using Airbnb listings dataset in Singapore from 2018 until 2022. All analysis and visualization were done using Python and its packages, namely Pandas and Plotly.
 
 Link to the notebook : https://drive.google.com/drive/folders/1GzXK1KXCZ2nfTYqWUuPoC6XTk6wXGO7l?usp=share_link
+
+### Analyzing eCommerce Business Performance with SQL
+
+![Alt text](https://www.kindpng.com/picc/m/161-1619179_e-commerce-payment-gateway-services-pay-e-commerce.png)
+
+This project analyzes the business performance of an eCommerce company, taking into consideration several business metrics, namely customer growth, product quality, and payment methods.
+
