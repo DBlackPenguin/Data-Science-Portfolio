@@ -28,3 +28,6 @@ This project analyzes the business performance of an eCommerce company, taking i
 ### Investigate Hotel Business using Data Visualization
 
 ![Alt text](https://img.freepik.com/free-vector/swimming-pool-hotel-resort-outdoors_33099-1697.jpg?w=996&t=st=1696552800~exp=1696553400~hmac=a46aa563c8103b4ed02f6adea6f240454d39da533d0e7bbd47fc39a6fae59c2f)
+
+In this project, we will delve deeper into the realm of hospitality business. Our focal point is to understand the behavior of our customers when it comes to hotel reservations and its correlation with the cancellation rate.
+
