@@ -25,3 +25,6 @@ Link to the notebook : https://drive.google.com/drive/folders/1GzXK1KXCZ2nfTYqWU
 
 This project analyzes the business performance of an eCommerce company, taking into consideration several business metrics, namely customer growth, product quality, and payment methods.
 
+### Investigate Hotel Business using Data Visualization
+
+![Alt text]([https://images.pond5.com/mobile-shopping-e-commerce-online-088356597_prevstill.jpeg](https://img.freepik.com/free-vector/swimming-pool-hotel-resort-outdoors_33099-1697.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1696377600&semt=ais)https://img.freepik.com/free-vector/swimming-pool-hotel-resort-outdoors_33099-1697.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1696377600&semt=ais)
