@@ -27,4 +27,4 @@ This project analyzes the business performance of an eCommerce company, taking i
 
 ### Investigate Hotel Business using Data Visualization
 
-![Alt text]([https://images.pond5.com/mobile-shopping-e-commerce-online-088356597_prevstill.jpeg](https://img.freepik.com/free-vector/swimming-pool-hotel-resort-outdoors_33099-1697.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1696377600&semt=ais)https://img.freepik.com/free-vector/swimming-pool-hotel-resort-outdoors_33099-1697.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1696377600&semt=ais)
+![Alt text](https://img.freepik.com/free-vector/swimming-pool-hotel-resort-outdoors_33099-1697.jpg?w=996&t=st=1696552800~exp=1696553400~hmac=a46aa563c8103b4ed02f6adea6f240454d39da533d0e7bbd47fc39a6fae59c2f)
