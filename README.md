@@ -31,3 +31,8 @@ This project analyzes the business performance of an eCommerce company, taking i
 
 In this project, we will delve deeper into the realm of hospitality business. Our focal point is to understand the behavior of our customers when it comes to hotel reservations and its correlation with the cancellation rate.
 
+### Predict Customer Personality to boost marketing campaign by using Machine Learning
+
+![Alt text](https://t3.ftcdn.net/jpg/01/82/13/22/360_F_182132265_N75J5jYjRyO8Buom4qciLphblh6GKdTY.jpg)
+
+By harnessing historical marketing campaign data to enhance performance and precisely target the right customers for transactions within the company's platform, the project's central objective revolves around the development of a predictive cluster model.
