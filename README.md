@@ -36,3 +36,15 @@ In this project, we will delve deeper into the realm of hospitality business. Ou
 ![Alt text](https://t3.ftcdn.net/jpg/01/82/13/22/360_F_182132265_N75J5jYjRyO8Buom4qciLphblh6GKdTY.jpg)
 
 By harnessing historical marketing campaign data to enhance performance and precisely target the right customers for transactions within the company's platform, the project's central objective revolves around the development of a predictive cluster model.
+
+### Predict Clicked Ads Customer Classification by using Machine Learning
+
+![Alt text](https://darvideo.tv/wp-content/uploads/2021/10/Animation-advertisements.jpg)
+
+By meticulously analyzing historical advertisement data and uncovering invaluable insights and recurring patterns, the company can steer its marketing efforts with precision. The focal point of this case is the creation of a machine learning classification model that adeptly identifies the most suitable target customers.
+
+### Improving Employee Retention by Predicting Employee Attrition Using Machine Learning
+
+![Alt text](https://t4.ftcdn.net/jpg/02/63/38/55/360_F_263385574_H7SxVE8PwEY6p3Ur32MI4CsdgwXhEoaM.jpg)
+
+In this project, we address a concern related to our workforce. Our focus is on understanding how to retain employees within our organization, thus reducing recruitment and onboarding costs. By identifying the key factors leading to employee dissatisfaction, we can create relevant programs to address their needs.
