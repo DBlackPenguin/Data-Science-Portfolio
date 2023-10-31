@@ -48,3 +48,12 @@ By meticulously analyzing historical advertisement data and uncovering invaluabl
 ![Alt text](https://t4.ftcdn.net/jpg/02/63/38/55/360_F_263385574_H7SxVE8PwEY6p3Ur32MI4CsdgwXhEoaM.jpg)
 
 In this project, we address a concern related to our workforce. Our focus is on understanding how to retain employees within our organization, thus reducing recruitment and onboarding costs. By identifying the key factors leading to employee dissatisfaction, we can create relevant programs to address their needs.
+
+### Credit Risk Predictive Modelling (ID/X Partners – Rakamin Academy)
+
+![Alt text](https://altcont.fibe.in/wp-content/uploads/2019/04/PERSONAL-LOANS.jpg)
+
+In this project, we delve into the complexities of credit risk modeling, where numbers meet narratives, and the future of finance comes into sharper focus. The dataset contains 466285 rows, and customer’s loan information from 2007-2014. The objective is to create a predictive model that would solve the problem of defaulting customers.
+
+
+
