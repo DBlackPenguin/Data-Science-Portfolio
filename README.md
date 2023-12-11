@@ -55,5 +55,9 @@ In this project, we address a concern related to our workforce. Our focus is on 
 
 In this project, we delve into the complexities of credit risk modeling, where numbers meet narratives, and the future of finance comes into sharper focus. The dataset contains 466285 rows, and customer’s loan information from 2007-2014. The objective is to create a predictive model that would solve the problem of defaulting customers.
 
+### Predictive Modelling for Credit Analysis & Scorecard Development (Home Credit Indonesia - Rakamin Academy)
 
+![Alt text](https://img.freepik.com/free-vector/businessman-pushing-credit-score-speedometer-from-poor-good-tiny-person-improving-personal-credit-history-with-efforts-flat-vector-illustration-business-reputation-customer-loan-concept_74855-20943.jpg)
+
+Home Credit uses statistical methods and Machine Learning to predict credit scores, aiming to unlock the full potential of data. The goal is to prevent creditworthy customers from being denied loans and to offer favorable terms for customer success. The approach involves employing at least two Machine Learning models, including Logistic Regression. Evaluation will test analytical depth, and the task is to create a presentation slide for an end-to-end modeling analysis, offering actionable recommendations for a successful lending strategy.
 
