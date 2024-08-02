@@ -66,3 +66,5 @@ Home Credit uses statistical methods and Machine Learning to predict credit scor
 ![Alt text](https://img.freepik.com/free-vector/engineers-consolidating-structuring-data-center-big-data-engineering-massive-data-operation-big-data-architecture-concept_335657-1880.jpg?t=st=1722613284~exp=1722616884~hmac=7ffd451c79d97fc6ab85d9774ea1f0182819d2453e39a5fe5375434c1dae3620&w=996)
 
 This project involved developing a comprehensive human capital analytics dashboard through an end-to-end ETL pipeline. Datasets were imported into PostgreSQL and MySQL databases, with Kafka set up for real-time streaming. A Data Warehouse schema was designed in PostgreSQL, and a Data Mart was created to fit business requirements. ETL processes, built with Python and Apache Airflow, transformed and moved data efficiently. Predictive analytics were integrated using machine learning models, and an interactive dashboard was deployed to provide insights into key human capital metrics and trends.
+
+Link to the project: https://drive.google.com/drive/folders/1LptR6JfPu_u92gYyy5mvZndfDz6mHF8v?usp=sharing
