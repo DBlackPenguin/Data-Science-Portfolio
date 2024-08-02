@@ -61,7 +61,7 @@ In this project, we delve into the complexities of credit risk modeling, where n
 
 Home Credit uses statistical methods and Machine Learning to predict credit scores, aiming to unlock the full potential of data. The goal is to prevent creditworthy customers from being denied loans and to offer favorable terms for customer success. The approach involves employing at least two Machine Learning models, including Logistic Regression. Evaluation will test analytical depth, and the task is to create a presentation slide for an end-to-end modeling analysis, offering actionable recommendations for a successful lending strategy.
 
-### Digital Skola Data Engineering Project
+# Digital Skola Data Engineering Project
 
 ![Alt text](https://img.freepik.com/free-vector/engineers-consolidating-structuring-data-center-big-data-engineering-massive-data-operation-big-data-architecture-concept_335657-1880.jpg?t=st=1722613284~exp=1722616884~hmac=7ffd451c79d97fc6ab85d9774ea1f0182819d2453e39a5fe5375434c1dae3620&w=996)
 
